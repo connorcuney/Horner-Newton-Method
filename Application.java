@@ -1,5 +1,3 @@
-package cunecd01_cs384_hw2;
-
 import java.util.Scanner;
 
 public class Application {
