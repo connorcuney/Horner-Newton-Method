@@ -1,5 +1,3 @@
-package cunecd01_cs384_hw2;
-
 public class Term {
 	double coefficient;
 	int exponent;
